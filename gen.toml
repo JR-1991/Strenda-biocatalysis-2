@@ -15,3 +15,4 @@ xml-schema = { out = "schemes/xml/*.xsd", per-spec = true }
 json-schema-all = { out = "schemes/json/", per-spec = true }
 python-dataclass = { out = "python/strendabiocat/*.py", per-spec = true }
 mk-docs = { out = "docs/guidelines/*.md", per-spec = true }
+typescript = { out = "typescript/src/*.ts", per-spec = true } 
